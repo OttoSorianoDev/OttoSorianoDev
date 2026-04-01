@@ -32,6 +32,6 @@
 </div>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OttoSorianoDevO&&theme=tokyonight" alt="Otto Soriano" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OttoSorianoDev&&theme=tokyonight" alt="Otto Soriano" /></p>
 
 ![Snake animation](https://github.com/OttoSorianoDev/OttoSorianoDev/blob/output/github-contribution-grid-snake-dark.svg)
